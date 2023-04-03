@@ -1,0 +1,23 @@
+{
+  "name": "slick-node-test",
+  "version": "1.0.0",
+  "description": "~~~~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoCrozier/slick-node-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoCrozier/slick-node-test/issues"
+  },
+  "homepage": "https://github.com/LeoCrozier/slick-node-test#readme",
+  "dependencies": {
+    "jquery": "^3.6.4",
+    "slick-carousel": "^1.8.1"
+  }
+}
